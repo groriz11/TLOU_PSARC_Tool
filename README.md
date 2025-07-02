@@ -35,7 +35,7 @@ A sleek, user-friendly **Windows EXE** app designed for fans, modders, and devs 
 
 ## 📥 Download
 
-Check the [Releases](https://github.com/yourusername/TLOU_PSARC_Tool/releases) page for the latest version!
+Check the [Releases](https://github.com/groriz11/TLOU_PSARC_Tool/releases/tag/tlou) page for the latest version!
 
 ---
 
@@ -60,8 +60,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 💬 Contact
 
-Created with ❤️ by [Your Name](https://github.com/yourusername)  
-Follow me on Twitter: [@yourhandle](https://twitter.com/yourhandle)
+Created with ❤️ by [Amr Shaheen](https://github.com/amrshaheen61) 
+
 
 ---
 
